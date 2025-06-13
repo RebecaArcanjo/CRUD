@@ -1,2 +1,3 @@
 CRUD
-![image](https://github.com/user-attachments/assets/aa6284fe-c4b5-4217-9faa-008b28914b63)
+![image](https://github.com/user-attachments/assets/48e0c175-30d3-49d6-a1fb-bf1f4c93792a)
+
